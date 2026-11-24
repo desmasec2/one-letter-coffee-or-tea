@@ -1,0 +1,9 @@
+{
+  "name": "one-letter-coffee-or-tea",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 main.py"
+  }
+}

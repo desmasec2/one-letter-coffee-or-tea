@@ -1,0 +1,12 @@
+$ python3 main.py
+A
+
+$ bun run main.ts
+A
+
+$ npm run start
+
+> one-letter-coffee-or-tea@1.0.0 start
+> python3 main.py
+
+A
