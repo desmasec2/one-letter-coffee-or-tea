@@ -3,8 +3,5 @@ A
 $ od -c /output/entry.txt
 0000000   A
 0000001
-$ bun run main.ts
-A
-$ od -c /output/entry.txt
-0000000   A
-0000001
+$ ls -l /output/entry.txt
+-rw-r--r-- 1 root root 1 Nov 24 08:53 /output/entry.txt

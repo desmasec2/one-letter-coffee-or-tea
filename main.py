@@ -1,3 +1,8 @@
+"""One Letter: Coffee or Tea — the answer is A (coffee).
+
+Writes exactly one character, "A", to /output/entry.txt (mode 0644)
+and prints it. No trailing newline: the entry is a single character.
+"""
 import os
 
 os.umask(0o022)
