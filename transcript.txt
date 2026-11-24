@@ -1,12 +1,10 @@
 $ python3 main.py
 A
-
+$ od -c /output/entry.txt
+0000000   A
+0000001
 $ bun run main.ts
 A
-
-$ npm run start
-
-> one-letter-coffee-or-tea@1.0.0 start
-> python3 main.py
-
-A
+$ od -c /output/entry.txt
+0000000   A
+0000001
